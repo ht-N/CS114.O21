@@ -20,14 +20,11 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
-## QUÁ TRÌNH MÔN HỌC
 <a name ="self"></a>
 ### VỀ BẢN THÂN
 * **Họ và tên**: Huỳnh Trọng Nghĩa
 * **MSSV**: 22520003
 * **Lớp**: KHNT2022
-<a name ="colab"></a>
-### COLAB ASSSIGNMENTS
 
 
 
